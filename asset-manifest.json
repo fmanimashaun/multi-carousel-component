@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/multi-carousel-component/static/css/main.23e6d0a1.css",
+    "main.js": "/multi-carousel-component/static/js/main.f1749a1e.js",
+    "static/media/slider-img-4.png": "/multi-carousel-component/static/media/slider-img-4.b1d6459a8ec3dbfd75c2.png",
+    "static/media/slider-img-3.png": "/multi-carousel-component/static/media/slider-img-3.a81f823693e00c5ad9a9.png",
+    "static/media/slider-img-1.png": "/multi-carousel-component/static/media/slider-img-1.174034213734575f3d21.png",
+    "static/media/slider-img-2.png": "/multi-carousel-component/static/media/slider-img-2.490122e4073fbf12c584.png",
+    "static/media/slider-img-5.png": "/multi-carousel-component/static/media/slider-img-5.3ab564dcaeb1d7e924f9.png",
+    "index.html": "/multi-carousel-component/index.html",
+    "main.23e6d0a1.css.map": "/multi-carousel-component/static/css/main.23e6d0a1.css.map",
+    "main.f1749a1e.js.map": "/multi-carousel-component/static/js/main.f1749a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e6d0a1.css",
+    "static/js/main.f1749a1e.js"
+  ]
+}
