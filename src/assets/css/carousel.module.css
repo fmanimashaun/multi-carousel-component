@@ -1,0 +1,33 @@
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin-inline: auto;
+  padding: 2rem;
+}
+
+.carousel__wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel__contents {
+  position: relative;
+  width: 100%;
+  list-style: none;
+  transform: translateX(0);
+  transition: transform 0.5s ease-out;
+}
+
+.carousel__item {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.carousel__item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

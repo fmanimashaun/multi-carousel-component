@@ -1,0 +1,34 @@
+.arrow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.arrow.left {
+  justify-content: flex-end;
+}
+
+.arrow.right {
+  justify-content: flex-start;
+}
+
+.arrow__left,
+.arrow__right {
+  padding: 0;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+}
+
+.arrow__left > img,
+.arrow__right > img {
+  display: block;
+  width: 2rem;
+  height: 3rem;
+}
